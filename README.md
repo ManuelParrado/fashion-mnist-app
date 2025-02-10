@@ -10,5 +10,5 @@ This project is a **Python** application that uses **Streamlit** to provide an i
 ## Versions
 The project has two versions hosted in different branches of this repository:
 
-- **[Version 1](https://fhasion-mnist-app-9ea8ann8pgybcgfgkuvb8h.streamlit.app)**
-- **[Version 2](https://fashion-mnist-appv2-2ksmruazwwxpsnetwm6k3d.streamlit.app)**
+- **[Version 1](https://fhasion-mnist-app-9ea8ann8pgybcgfgkuvb8h.streamlit.app/)**
+- **[Version 2](https://fashion-mnist-appv2-2ksmruazwwxpsnetwm6k3d.streamlit.app/)**
